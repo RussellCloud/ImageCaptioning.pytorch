@@ -18,6 +18,8 @@ Pretrained models are provided [here](https://drive.google.com/open?id=0B7fNdx_j
 
 If you want to do evaluation only, then you can follow [this section](#generate-image-captions) after downloading the pretrained models.
 
+`python eval.py --model /input/pretrain/FC/fc-model.pth --infos_path /input/pretrain/FC/fc-infos.pkl --image_folder img --num_images 5`
+
 ## Train your own network on COCO
 
 ### Download COCO dataset and preprocessing
