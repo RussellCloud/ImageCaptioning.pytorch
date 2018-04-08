@@ -43,6 +43,22 @@ Russell 参数解读：
 
 
 
+
+---
+
+#### 进阶技巧
+
+修改 img 下的文件，即可对模型进行自定义测试。让机器对你的图片进行解读。
+
+
+
+#### 高阶技巧
+
+查看`README_detail.md`下的详细说明，即可进行自定义的训练、评估，导出自己的模型权重。
+
+
+
+
 #### 参考资料
 
 - Thanks the original [neuraltalk2](https://github.com/karpathy/neuraltalk2) and awesome PyTorch team.
