@@ -1,1 +1,1 @@
-{"family_id": "zTq8NufiPef9YXYoqdQfRc", "name": "ImageCaptioning", "module_predecessor": "7367b8b38983485d96124da475cbb0d6", "project_id": "7a578cc2e77b449b983f79568f2a78eb", "version": 2, "experiment_predecessor": "ca403876180f42f598f9c15cc74ab01f"}
+{"family_id": "zTq8NufiPef9YXYoqdQfRc", "version": 4, "name": "ImageCaptioning", "module_predecessor": "dac7fa69b8a64fb380bfbae86f260b0d", "experiment_predecessor": "cebdbabab72b49f996955628998a0064", "project_id": "7a578cc2e77b449b983f79568f2a78eb"}
