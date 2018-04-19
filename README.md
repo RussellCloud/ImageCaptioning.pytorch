@@ -32,7 +32,7 @@ $ russell login
 # 允许弹出网页，复制密匙进行认证。
 $ russell init ImageCaptioning
 
-$ russell run "python eval.py --model /input/pretrain/FC/fc-model.pth --infos_path /input/pretrain /FC/fc-infos.pkl --image_folder img --num_images 5" --data 78d1fdddf7074f8c9b647a56f7f1211a:pretrain --data 2e4189afbcb447a39ebc484854a489e8:weights --gpu
+$ russell run "python eval.py --model /input/pretrain/FC/fc-model.pth --infos_path /input/pretrain/FC/fc-infos.pkl --image_folder img --num_images 5" --data 78d1fdddf7074f8c9b647a56f7f1211a:pretrain --data 2e4189afbcb447a39ebc484854a489e8:weights --gpu
 ```
 
 Russell 参数解读：
